@@ -12,18 +12,3 @@ n numbers separated by spaces.
 
 Output format
 The program should output YES if the matrix is a Latin square and NO otherwise.
-
-Sample Input 1:           Sample Output 1:
-4                         YES
-2 3 4 1
-3 4 1 2
-4 1 2 3
-1 2 3 4
-
--------------------------------------------
-Sample Input 2:          Sample Output 2:
-3                        NO
-1 2 3
-3 2 1
-2 3 4
-
